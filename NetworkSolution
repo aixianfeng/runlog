@@ -1,0 +1,4 @@
+You have two systems: Windows and Ubuntu
+If can't connect to the Internet on Ubuntu, check whether the network drive exits or not on Windows.
+How: use the DriverGenerious
+If exits, find out whether the driver is the most suitable for the network;if not, update it on Windows.
